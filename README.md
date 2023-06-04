@@ -173,6 +173,11 @@ You can download file either using Activate Cloud Shell down-arrow button on cor
 ![image](https://github.com/Hem5555/Ethereum_wealth_distribution_Project/assets/121716939/8988c2c9-62f2-41a1-9635-19b130b1266e)
 
 
+Ethereum Reference: 
+
+https://crawling-sole-80f.notion.site/Reference-Ethereum-794caea6a28942f4a8a8e85bea1cb419
+
+
 
 
 
